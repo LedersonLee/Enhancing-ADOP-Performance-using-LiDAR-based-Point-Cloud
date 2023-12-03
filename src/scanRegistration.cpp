@@ -250,7 +250,7 @@ void laserCloudHandler(const sensor_msgs::PointCloud2ConstPtr &laserCloudMsg)
                 count--;
                 continue;
             }
-	      }
+	}
         /*코드 추가*/
         else
         {
